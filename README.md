@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pierreforstmann
+- 👋 Hi, I’m Pierre Forstmann
 - 👀 I’m interested in database developement and administration (PostgreSQL and Oracle)
 - 💞️ I’m looking to collaborate on technical development using C, C++, PL/pgSQL and PL/SQL
 - 📫 You can contact me on Linkedin.
