@@ -21,7 +21,8 @@ Repo-baseurl       : https://download.postgresql.org/pub/repos/yum/15/redhat/rhe
 Repo-expire        : 172,800 second(s) (last: Thu 03 Aug 2023 09:12:32 PM CEST)
 Repo-filename      : /etc/yum.repos.d/pgdg-redhat-all.repo
 Total packages: 428
-(base) [pierre@alma ~]$ dnf info pg_readonly_15
+
+$ dnf info pg_readonly_15
 Last metadata expiration check: 0:04:22 ago on Thu 03 Aug 2023 09:12:44 PM CEST.
 Available Packages
 Name         : pg_readonly_15
